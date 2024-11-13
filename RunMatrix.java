@@ -11,6 +11,7 @@ public class RunMatrix {
 
     if (size <= 0) {
       System.out.println("Please make sure you are entering a positive integer!");
+
       return;
     }
 
